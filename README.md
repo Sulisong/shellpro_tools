@@ -6,6 +6,7 @@
 
 **Jsdelivr刷新**
 * 版本更新
+
 https://purge.jsdelivr.net/gh/Sulisong/shellpro_tools@main/release/version.json
 https://purge.jsdelivr.net/gh/Sulisong/shellpro_tools@main/release/app-arm64-v8a-release.apk
 https://purge.jsdelivr.net/gh/Sulisong/shellpro_tools@main/release/app-armeabi-v7a-release.apk
